@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">ManillasByXYZ</string>
+    <string name="titulo">Liquidador de Manillas</string>
+    <string name="num_manilla">Indique el número de manillas</string>
+    <string name="material">Indique el material</string>
+    <string name="cuero">Cuero</string>
+    <string name="cuerda">Cuerda</string>
+    <string name="dije">Indique el dije:</string>
+    <string name="martillo">Martillo</string>
+    <string name="ancla">Ancla</string>
+    <string name="tipo">Indique el tipo de metal:</string>
+    <string-array name="sptipos">
+        <item>@string/oro</item>
+        <item>@string/ororosado</item>
+        <item>@string/plata</item>
+        <item>@string/niquel</item>
+    </string-array>
+    <string-array name="spDivisa">
+        <item>@string/pesos</item>
+        <item>@string/dolares</item>
+    </string-array>
+    <string name="oro">Oro</string>
+    <string name="ororosado">Oro Rosado</string>
+    <string name="plata">Plata</string>
+    <string name="niquel">Niquel</string>
+    <string name="divisa">Indique la Divisa</string>
+    <string name="pesos">Peso Colombiano</string>
+    <string name="dolares">Dolares</string>
+    <string name="liquidar">Liquidar</string>
+    <string name="valorapagar">El valor a pagar es:</string>
+</resources>

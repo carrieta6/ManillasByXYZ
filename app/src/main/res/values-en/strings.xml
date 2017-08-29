@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ManillasByXYZ</string>
+    <string name="titulo">Liquidator of Bracelets</string>
+    <string name="oro">Gold</string>
+    <string name="ororosado">Pink Gold</string>
+    <string name="plata">Silver</string>
+    <string name="tipo">Choose the type</string>
+    <string name="num_manilla">Choose the Quantity</string>
+    <string name="niquel">Nickel</string>
+    <string name="material">Choose the material</string>
+    <string name="martillo">Hammer</string>
+    <string name="dije">Choose the pendant:</string>
+    <string name="cuero">Leather</string>
+    <string name="cuerda">String</string>
+    <string name="ancla">Anchor</string>
+    <string name="divisa">Divise</string>
+    <string name="dolares">Dollars</string>
+    <string name="pesos">Columbian Pesos</string>
+    <string name="liquidar">Liquidate</string>
+</resources>
